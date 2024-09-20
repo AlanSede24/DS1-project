@@ -33,4 +33,4 @@ Para llevar a cabo el procesamiento de los datos, se utiliza **Python** y sus li
 - **no_of_previous_bookings_not_canceled** - Número de reservas anteriores que no fueron canceladas por el cliente antes de la reserva actual.
 - **avg_price_per_room** - Precio promedio por día de la reserva en euros. Los precios son dinámicos y varían.
 - **no_of_special_requests** - Número total de solicitudes especiales realizadas por el cliente (por ejemplo, piso alto, vista, etc.).
-- **booking_status** - Estado de la reserva, indica si fue cancelada o no (Canceled = Canceled, Not_Canceled = Not_Canceled).
+- **booking_status** - Estado de la reserva, indica si fue cancelada o no.
