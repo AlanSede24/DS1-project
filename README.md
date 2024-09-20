@@ -1,2 +1,8 @@
-# DS1-project
-Este repositorio contiene los archivos y recursos utilizados en el proyecto final del curso de Data Science (brindado por Coderhouse)
+# DS1-project - Data Science I project
+
+## Descripción
+Este proyecto consiste en la exploración y análisis de un dataset utilizando Python y sus librerías para la ciencia de datos (como pandas, numpy, matplotlib y seaborn).
+
+## Contenidos
+- Exploración y limpieza de los datos.
+- Visualizaciones iniciales con matplotlib y seaborn.
